@@ -523,10 +523,3 @@ The interactive Streamlit web application provides a user-friendly interface for
 ---
 
 
-- **Assignment**: Assignment-2 (15 Marks)
-- **Deadline**: 15-Feb-2026
-- **Submission**: GitHub + Streamlit Cloud + BITS Lab Screenshot
-
----
-
-**Last Updated**: January 28, 2026
