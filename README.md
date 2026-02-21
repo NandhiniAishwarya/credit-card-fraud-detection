@@ -359,7 +359,7 @@ cd credit-card-fraud-detection
 pip install -r requirements.txt
 ```
 
-### 1. Training Models (on BITS Virtual Lab)
+### 1. Training Models 
 ```bash
 # Download creditcard.csv from Kaggle
 # Place it in the project directory
