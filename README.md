@@ -406,21 +406,11 @@ streamlit run app.py
 
 ## Dataset Download Instructions
 
-### Option 1: Download from Kaggle
+### Download from Kaggle
 1. Visit: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 2. Click "Download" button
 3. Extract `creditcard.csv` to project directory
 4. Requires Kaggle account
-
-### Option 2: Download from Google Drive
-1. Visit: https://drive.google.com/file/d/1r52Xk-nrU5OQa5xw7VoYcjKdj1PN10KI/view
-2. Click "Download" button
-3. Extract to project directory
-
-### Option 3: Using Kaggle API
-```bash
-# Install kaggle CLI
-pip install kaggle
 
 # Download dataset
 kaggle datasets download -d mlg-ulb/creditcardfraud
