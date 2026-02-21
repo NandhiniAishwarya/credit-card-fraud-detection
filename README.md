@@ -522,13 +522,7 @@ The interactive Streamlit web application provides a user-friendly interface for
 
 ---
 
-## Author
-M.Tech AIML / DSE Student  
-BITS Pilani, Hyderabad Campus  
-Academic Year: 2025-2026
 
-## Assignment Details
-- **Course**: Machine Learning (ML)
 - **Assignment**: Assignment-2 (15 Marks)
 - **Deadline**: 15-Feb-2026
 - **Submission**: GitHub + Streamlit Cloud + BITS Lab Screenshot
